@@ -1,0 +1,96 @@
+
+/* Header Section */
+
+.title{
+
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+}
+header {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  align-items: center;
+}
+
+.menu-group{
+  margin-right: 40px;
+}
+.title {
+  margin-right: auto;
+  margin-left: 55px;
+}
+
+.menu-item {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+}
+
+body{
+  background-color: #F2F2F2;
+}
+
+.yuutoImage{
+  width: 150px;
+  height: 150px;
+  margin-left: 70px;
+  margin-top: 30px;
+
+}
+
+/* Carousel Section */
+.bigProfile{
+  height: 400px;
+  width: 240px;
+}
+.bigProfile2{
+  height: 300px;
+  width: 290px;
+}
+.bigProfile3{
+  height: 400px;
+  width: 260px;
+}
+.blankImg{
+  height: 300px;
+  width: 130px;
+  background-color: #F2F2F2;
+}
+.iconImage{
+  height: 35px;
+  width: 35px;
+}
+.userName{
+  font-weight: bold;
+}
+h4{
+  font-family: 'Lato', sans-serif;
+}
+h2, h5{
+  font-family: 'Lato', sans-serif;
+}
+.textbox{
+  margin-left: 50px;
+}
+
+.mgr-10{
+  margin-left: 10px;
+
+}
+
+.iconLink{
+  text-decoration: none;
+}
+/* .aboutMe{
+  height: 400px;
+  width: 700px;
+  /* padding-left: 400px; */
+  /* background-color: white;
+  margin-left: 280px;
+} */
+
+footer{
+  text-align: center;
+}
